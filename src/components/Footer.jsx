@@ -1,4 +1,4 @@
-import logo from "../assets/logo.jpeg"
+import logo from "../assets/pixelcut-export.png"
 import { SOCIAL_MEDIA_LINKS } from "../constants";
 import { motion } from "framer-motion";
 

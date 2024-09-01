@@ -179,7 +179,7 @@ export const SOCIAL_MEDIA_LINKS = [
     icon: <FaXTwitter fontSize={25} className="hover:opacity-80" />,
   },
   {
-    href: "https://github.com/Makarand11",
+    href: "https://github.com/Makarand-11",
     icon: <FaGithub fontSize={25} className="hover:opacity-80" />,
   },
   {

@@ -58,7 +58,7 @@ export const PROJECTS = [
     id: 3,
     name: "Expense Tracker App",
     description:
-      "The expense tracker is a full-stack web app built with React, Node.js, Express, and MongoDB. Users can add, edit, delete, and search expenses while viewing insightful reports with a PieChart visualization. The backend handles CRUD operations, ensuring seamless data management and persistence. The intuitive UI offers a responsive and user-friendly experience, making expense tracking efficient and visually appealing.",
+      "The expense tracker is a full-stack application built with React, Node.js, Express, and MongoDB. Users can add, edit, delete, and search expenses while viewing insights through a PieChart. The backend efficiently handles CRUD operations, ensuring seamless data management and a smooth user experience.",
     image: projectImage3,
     githubLink: "https://github.com/Makarand-11/Expense-Tracker",
   },

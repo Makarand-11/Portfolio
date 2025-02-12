@@ -89,7 +89,7 @@ export const PROJECTS = [
 ];
 
 export const BIO = [
-  "Makarand Nagvekar holds a degree in Electronics and Telecommunication Engineering, combining technical expertise with a passion for software development. Since graduating, he has cultivated a deep understanding of frontend development, mastering key skills like HTML, CSS, JavaScript, React, and SQL.",
+  "Makarand Nagvekar holds a degree in Electronics and Telecommunication Engineering, combining technical expertise with a passion for software development. Since graduating, he has honed his skills in frontend and full-stack development, mastering technologies like HTML, CSS, Tailwind CSS, JavaScript, React, Node.js, Express.js, MongoDB, SQL, Git, and GitHub.",
   "Over the years, Makarand has transformed numerous ideas into beautiful and functional user interfaces, consistently delivering engaging web experiences. His journey reflects a dedication to continuous learning and innovation in the digital realm, driven by a vision to excel as a top-tier software developer.",
   "With a solid foundation in engineering, Makarand Nagvekar brings a unique perspective to his work, blending technical precision with creative flair. His commitment to crafting exceptional web solutions positions him as a rising talent in the world of frontend development, eager to contribute to the next wave of digital innovation.",
 ];

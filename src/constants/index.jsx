@@ -48,19 +48,19 @@ export const PROJECTS = [
   },
   {
     id: 2,
-    name: "E-Commerce Platform",
+    name: "SportsThread",
     description:
-      "An e-commerce web application developed using Next.js and Stripe for payment integration, featuring a comprehensive product catalog, shopping cart, and checkout system.",
+      "SportsThread is a MERN stack-based e-commerce platform for jerseys, featuring secure authentication, dynamic product management, cart handling, and seamless UI/UX with Tailwind CSS and Framer Motion, backed by Node.js, Express, and MongoDB.",
     image: projectImage2,
-    githubLink: "https://github.com/user/ecommerce-platform",
+    githubLink: "https://github.com/Makarand-11/SportsThread",
   },
   {
     id: 3,
-    name: "Task Management Tool",
+    name: "Expense Tracker App",
     description:
-      "A task management application built with React and Redux for efficient task tracking and team collaboration, including features like project boards, task assignment, and progress tracking.",
+      "The expense tracker is a full-stack web app built with React, Node.js, Express, and MongoDB. Users can add, edit, delete, and search expenses while viewing insightful reports with a PieChart visualization. The backend handles CRUD operations, ensuring seamless data management and persistence. The intuitive UI offers a responsive and user-friendly experience, making expense tracking efficient and visually appealing.",
     image: projectImage3,
-    githubLink: "https://github.com/user/task-management-tool",
+    githubLink: "https://github.com/Makarand-11/Expense-Tracker",
   },
   // {
   //   id: 4,
